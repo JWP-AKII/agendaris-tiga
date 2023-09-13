@@ -1,10 +1,9 @@
 <?php
-session_start();
 
 $host = 'localhost';
 $user = 'root';
 $pass = '';
-$db = 'db_siswa';
+$db = 'db_surat';
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
