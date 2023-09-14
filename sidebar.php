@@ -23,8 +23,8 @@
             </a>
             <div class="collapse" id="ui-basic">
               <ul class="nav flex-column sub-menu">
-                <li class="nav-item"> <a class="nav-link" href="pages/ui-features/buttons.html">Surat Masuk</a></li>
-                <li class="nav-item"> <a class="nav-link" href="pages/ui-features/dropdowns.html">Surat Keluar</a></li>
+                <li class="nav-item"> <a class="nav-link" href="surat_masuk/index.php">Surat Masuk</a></li>
+                <li class="nav-item"> <a class="nav-link" href="surat_keluar/index.php">Surat Keluar</a></li>
                 <li class="nav-item"> <a class="nav-link" href="pages/ui-features/typography.html">Disposisi</a></li>
               </ul>
             </div>
@@ -37,7 +37,7 @@
             </a>
             <div class="collapse" id="form-elements">
               <ul class="nav flex-column sub-menu">
-                <li class="nav-item"><a class="nav-link" href="pages/forms/basic_elements.html">Basic Elements</a></li>
+                <li class="nav-item"><a class="nav-link" href="buku/index.php">Nama Buku</a></li>
               </ul>
             </div>
 
