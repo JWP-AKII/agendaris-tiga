@@ -1,0 +1,54 @@
+/* style.css */
+
+/* Style untuk judul h1 */
+h1 {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+}
+
+/* Style untuk tombol Tambah Data */
+a.fa.fa-plus {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Style untuk tabel */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Style untuk header tabel */
+table th {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Style untuk sel dalam tabel */
+table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+/* Style untuk ikon Edit dan Delete */
+a.fa.fa-edit,
+a.fa.fa-trash {
+    display: inline-block;
+    padding: 5px;
+    margin: 3px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+/* Hover effect untuk ikon Edit dan Delete */
+a.fa.fa-edit:hover,
+a.fa.fa-trash:hover {
+    color: #0056b3;
+}
